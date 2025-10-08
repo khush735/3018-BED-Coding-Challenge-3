@@ -1,0 +1,14 @@
+#Firebase private key
+coding-challenge-3-7f7f6-firebase-adminsdk-fbsvc-7cf9333794.json
+
+*.pem
+*.key
+*.env
+*.json
+
+# Ignore dependencies
+node_modules/
+
+# Ignore OS & editor junk
+.DS_Store
+.vscode/
